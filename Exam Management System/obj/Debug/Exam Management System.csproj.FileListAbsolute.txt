@@ -1,0 +1,45 @@
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\obj\Debug\Exam Management System.csproj.AssemblyReference.cache
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\obj\Debug\Exam Management System.csproj.SuggestedBindingRedirects.cache
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\obj\Debug\Exam_Management_System.Excel_UIs.Excel_Data_Center.resources
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\obj\Debug\Exam_Management_System.MainDashboard.resources
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\obj\Debug\Exam_Management_System.Properties.Resources.resources
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\obj\Debug\Exam_Management_System.UI_Controller.AddClassUI.resources
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\obj\Debug\Exam_Management_System.UI_Controller.Classes.resources
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\obj\Debug\Exam Management System.csproj.GenerateResource.cache
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\obj\Debug\Exam Management System.csproj.CoreCompileInputs.cache
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\Exam Management System.exe.config
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\Exam Management System.exe
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\Exam Management System.pdb
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\Guna.UI2.dll
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\SaaUI.dll
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\XanderUI.dll
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\SaaUI.xml
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\obj\Debug\Exam Management System.csproj.CopyComplete
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\obj\Debug\Exam Management System.exe
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\obj\Debug\Exam Management System.pdb
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\obj\Debug\Exam_Management_System.UI_Controller.UpdateClass.resources
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\obj\Debug\Exam_Management_System.UI_Controller.StudentUI.resources
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\ComponentFactory.Krypton.Docking.dll
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\obj\Debug\Exam_Management_System.Form1.resources
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\LiveCharts.dll
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\LiveCharts.WinForms.dll
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\LiveCharts.Wpf.dll
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\LiveCharts.pdb
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\LiveCharts.xml
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\LiveCharts.WinForms.pdb
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\LiveCharts.WinForms.xml
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\LiveCharts.Wpf.pdb
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\bin\Debug\LiveCharts.Wpf.xml
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\obj\Debug\Exam_Management_System.UI_Controller.DashboardController.resources
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\obj\Debug\Exam_Management_System.UI_Controller.ResultsPanel.resources
+E:\CSharp Projects\Winfiorm Apps\Exam Management System\Exam Management System\obj\Debug\Exam_Management_System.UI_Controller.viewResults.resources
